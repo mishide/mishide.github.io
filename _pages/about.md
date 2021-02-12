@@ -9,10 +9,7 @@ Data scientist who excels at data wrangling, machine learning, exploratory analy
 
 I'm also known for finding unique solutions to road blocks with a high-level understanding of business needs and priorities.  
 
-Domain experience in: 
-    Healthcare: Orthopedics
-    Pharmaceutical: Clinical Trials
-    R&D: Medical Instruments
+Extensive healthcare domain experince including:  hospital, pharmaceutical, R&D.
 
 I enjoy working on projects together so feel free to contact me for collaboration.
 
