@@ -1,10 +1,10 @@
 ---
-title: "Data Wrangling Project"
-date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+title: "Orthopedic: Spondylolisthesis Classification"
+date: 2021-02-12
+tags: [ Michelle Ide Data Science, Orthopedic Data Science, Healthcare Data Science, Orthopedic Classification]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Classification of angular radiology features into Normal/Abnormal"
 mathjax: "true"
 ---
 
