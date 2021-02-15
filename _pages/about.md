@@ -7,8 +7,8 @@ header:
 
 Data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.    
 
-Extensive healthcare domain experince including:  hospital, pharmaceutical, R&D.  
+Extensive healthcare domain experince including:  Hospitals, Pharmaceuticals, and R&D.  
 
-References have referred to me as tenacious, hard-working, and a leader.  Executives trust my input on technical impacts, realistic expectations, and remember me for my ability to quickly find paths around roadblocks during project development and adressing technical issues.
+Previous experience: Business Consultanting, Software Application Development, Scientific Research, Clinical Trials, E-commerce, Data Projects
 
-I enjoy working on projects together so feel free to contact me for collaboration.  
+Described as a leader, hard-working, and tenacious, I enjoy working on projects together so feel free to contact me for collaboration.  
