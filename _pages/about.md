@@ -5,12 +5,10 @@ header:
   image: "/images/zakim.jpg"
 ---
 
-Data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.  
+Data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.    
 
-I'm also known for finding unique solutions to road blocks with a high-level understanding of business needs and priorities.  
+Extensive healthcare domain experince including:  hospital, pharmaceutical, R&D.  
 
-Extensive healthcare domain experince including:  hospital, pharmaceutical, R&D.
+References have referred to me as tenacious, hard-working, and a leader.  Executives trust my input on technical impacts, realistic expectations, and remember me for my ability to quickly find paths around roadblocks during project development and adressing technical issues.
 
-I enjoy working on projects together so feel free to contact me for collaboration.
-
-
+I enjoy working on projects together so feel free to contact me for collaboration.  
